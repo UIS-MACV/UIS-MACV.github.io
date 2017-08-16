@@ -11,9 +11,9 @@ permalink: /blog/:year/:month/:day/:title.html
 
 # Sections on the "people" page.
 roles:
-    - {key: faculty, name: Facultad}
+    - {key: faculty, name: Faculty}
     - {key: staff, name: Staff}
-    - {key: postdoc, name: Investigadores}
+    - {key: postdoc, name: Researchers}
     - {key: grad, name: Graduate Students}
     - {key: collab, name: Collaborators}
     - {key: alum, name: Alumni}
@@ -34,5 +34,5 @@ navigation:
       link: /research/
     - title: Publications
       link: /publications.html
-    - title: Codigo
+    - title: Code
       link: /code.html

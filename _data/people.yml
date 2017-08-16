@@ -1,6 +1,6 @@
 profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    display_name: "Professor Fabio Martinez"
+    webpage: "https://sites.google.com/site/fmartinezc21/"
     github: profx
     role: faculty
     bio: |
@@ -11,6 +11,12 @@ melody:
     role: staff
     bio: |
         Scott, also known as Cyclops, shoots lasers from his eyes, which makes him the perfect administrative assistant.
+
+castillo:
+    display_name: "Castillo"
+    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
+    github: wolverine
+    role: postdoc
 
 wolverine:
     display_name: "Wolverine"
