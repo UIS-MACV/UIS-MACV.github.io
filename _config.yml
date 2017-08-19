@@ -1,5 +1,5 @@
 name: Motion Analysis and Computer Vision
-url: http://fcastilloc.github.io
+url: http://uis-macv.github.io
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -38,3 +38,6 @@ navigation:
       link: /code.html
     - title: Teaching
       link: /teaching.html
+    - title: Contact
+      link: /contact.html
+      
