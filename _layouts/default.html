@@ -15,7 +15,7 @@
         </div>
         <div class="container">
           <div class="header">
-            <ul class="nav nav-pills pull-right justify-content-center">
+            <ul class="nav nav-pills nav-fill pull-right ">
               {% assign shorturl = page.url | replace:'index.html','' %}
               {% for item in site.navigation %}
                 <li {% if item.link == shorturl %}class="active"{% endif %}>
