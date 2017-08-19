@@ -10,12 +10,12 @@
             href="{{ site.base }}/blog/blog.xml">
     </head>
     <body>
-        <div class="container-fluid">
+        <div class="container-fluid justify-content-center">
             <img src="/img/logo_MACV.png" height="275" width="594">
         </div>
         <div class="container">
           <div class="header">
-            <ul class="nav nav-pills pull-right">
+            <ul class="nav nav-pills pull-right justify-content-center">
               {% assign shorturl = page.url | replace:'index.html','' %}
               {% for item in site.navigation %}
                 <li {% if item.link == shorturl %}class="active"{% endif %}>
