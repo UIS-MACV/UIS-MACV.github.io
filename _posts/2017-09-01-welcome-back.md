@@ -1,17 +1,15 @@
 ---
 layout: post
-title: "Welcome back to MACV"
+title: "Welcome back to MACV sessions!"
 ---
-Dear partners,  
+Dear all,  
 
-The (main) session of the Semillero on Friday, September 1 will be held at:
+The (main) session of Semillero will take place this Friday, September 1st and will be held at:
 
--Network Room  
--Hour: 8 A.M.  
-
-The alternate session will be held at the same place at 2 pm  
+-Sala de Redes  
+-Time: 8 A.M.  
 
 Theme: **Background Subtraction techniques for detection of moving objects in video.**  
-Speaker: Fabio Martínez.  
+Speaker: Fabio Martínez, PhD.  
 
-We hope you!  
+We hope to see you there!  
