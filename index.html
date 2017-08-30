@@ -3,12 +3,11 @@ layout: default
 title: Home
 notitle: true
 ---
+
+<img src="img/slide01.jpg" />
+
 <h2>News</h2>
 <ul class="news list-unstyled">
-<br>
-<img src="img/slide01.jpg" />
-<br><br>
-
 {% for post in site.posts limit: site.front_page_news %}
     {% if post.shortnews %}
         <li class="shortnews">
