@@ -13,3 +13,5 @@ Theme: **Background Subtraction techniques for detection of moving objects in vi
 Speaker: Fabio Martínez, PhD.  
 
 We hope to see you there!  
+
+<br><br><br><br>
