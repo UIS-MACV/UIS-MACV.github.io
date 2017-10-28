@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Submission deadline for Encuentro Regional de Semilleros de Investigacion"
+title: "Submission deadline for II Encuentro Regional de Semilleros de Investigacion"
 ---
 Dear all,  
 
-This is just a reminder of the submission deadline for Encuentro Regional de Semilleros de Investigacion which will take place at Universidad de Investigación y Desarrollo UDI. An abstract is required to participate in the poster sessions.
+This is just a reminder of the submission deadline for II Encuentro Regional de Semilleros de Investigacion which will take place at Universidad de Investigación y Desarrollo UDI. An abstract is required to participate in the poster sessions.
 
 Official dates for abstract submissions:
 
