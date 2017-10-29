@@ -7,7 +7,9 @@ layout: default
 {{ content }}
   
 {% if page.img %}
-  <img class="caption__media" data-interchange="{% for img in page.img %}{{img[1]}}{% endfor %}">
+  {% for img in page.img %}
+<img class="caption__media" src="{{img[1]}}">
+  {% endfor %}
 {% endif %}Hola
 
 </div>
