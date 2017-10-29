@@ -6,7 +6,7 @@ Dear all,
 
 Four of our current MACV members participated at II Encuentro Regional de Semilleros de Investigación which took place on october 23 at Universidad de Investigación y Desarrollo (Bucaramanga).<br><br>
 
-![My helpful screenshot]({{ "/assets/nuevo.jpg" | absolute_url }})
+[My helpful screenshot]({{ "/assets/nuevo.jpg" | absolute_url }})
 
 https://sites.google.com/a/saber.uis.edu.co/macv/home/20171025_01.jpg
 https://sites.google.com/a/saber.uis.edu.co/macv/home/20171025_02.jpg
