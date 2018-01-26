@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	
 	<title type="text" xml:lang="en">Motion Analysis and Computer Vision</title>
-    <link type="application/atom+xml" href="http://uis-macv.github.io/blog/blog.xml" rel="self"/>
-    <link href="http://uis-macv.github.io/"/>
-	<updated>2018-01-26T11:49:48-05:00</updated>
-    <id>http://uis-macv.github.io/</id>
+    <link type="application/atom+xml" href="http://localhost:4000/blog/blog.xml" rel="self"/>
+    <link href="http://localhost:4000/"/>
+	<updated>2018-01-26T12:03:26-05:00</updated>
+    <id>http://localhost:4000/</id>
 	<author>
 		<name>the Sampa group</name>
 	</author>
@@ -14,10 +14,10 @@
 	<entry>
         
             <title>Punto Vive Digital: now open 24h Mon-Fri</title>
-            <link href="http://uis-macv.github.io/blog/2017/10/26/puntovivedigital.html"/>
+            <link href="http://localhost:4000/blog/2017/10/26/puntovivedigital.html"/>
         
 		<updated>2017-10-26T00:00:00-05:00</updated>
-        <id>http://uis-macv.github.io/blog/2017/10/26/puntovivedigital.html</id>
+        <id>http://localhost:4000/blog/2017/10/26/puntovivedigital.html</id>
 		<content type="html">&lt;p&gt;Now introducing the first Punto Vive Digital in Colombia with 24h monday-to-friday service!&lt;br /&gt;
 Enjoy rooms with cutting-edge computers and internet access, xbox gaming spots, media production studio, certified short courses and more.&lt;br /&gt;
 Visit us!: Carrera 27 Calle 10, Instituto Tecnológico Dámaso Zapata (Glorieta caballo de Bolivar entrance).
@@ -30,10 +30,10 @@ Visit us!: Carrera 27 Calle 10, Instituto Tecnológico Dámaso Zapata (Glorieta 
 	<entry>
         
             <title>Successful poster presentations</title>
-            <link href="http://uis-macv.github.io/blog/2017/10/25/eventoudi.html"/>
+            <link href="http://localhost:4000/blog/2017/10/25/eventoudi.html"/>
         
 		<updated>2017-10-25T00:00:00-05:00</updated>
-        <id>http://uis-macv.github.io/blog/2017/10/25/eventoudi.html</id>
+        <id>http://localhost:4000/blog/2017/10/25/eventoudi.html</id>
 		<content type="html">&lt;p&gt;Dear all,&lt;/p&gt;
 
 &lt;p&gt;Four of our current MACV members participated at II Encuentro Regional de Semilleros de Investigación which took place on october 23 at Universidad de Investigación y Desarrollo (Bucaramanga).&lt;br /&gt;&lt;br /&gt;
@@ -47,10 +47,10 @@ Three research posters were sent and favorable critics arised from the event ref
 	<entry>
         
             <title>Submission deadline for II Encuentro Regional de Semilleros de Investigacion</title>
-            <link href="http://uis-macv.github.io/blog/2017/09/02/submission-deadline-UDI.html"/>
+            <link href="http://localhost:4000/blog/2017/09/02/submission-deadline-UDI.html"/>
         
 		<updated>2017-09-02T00:00:00-05:00</updated>
-        <id>http://uis-macv.github.io/blog/2017/09/02/submission-deadline-UDI.html</id>
+        <id>http://localhost:4000/blog/2017/09/02/submission-deadline-UDI.html</id>
 		<content type="html">&lt;p&gt;Dear all,&lt;/p&gt;
 
 &lt;p&gt;This is just a reminder of the submission deadline for II Encuentro Regional de Semilleros de Investigacion which will take place at Universidad de Investigación y Desarrollo UDI. An abstract is required to participate in the poster sessions.&lt;/p&gt;
@@ -76,10 +76,10 @@ Three research posters were sent and favorable critics arised from the event ref
 	<entry>
         
             <title>Welcome back to MACV sessions!</title>
-            <link href="http://uis-macv.github.io/blog/2017/09/01/welcome-back.html"/>
+            <link href="http://localhost:4000/blog/2017/09/01/welcome-back.html"/>
         
 		<updated>2017-09-01T00:00:00-05:00</updated>
-        <id>http://uis-macv.github.io/blog/2017/09/01/welcome-back.html</id>
+        <id>http://localhost:4000/blog/2017/09/01/welcome-back.html</id>
 		<content type="html">&lt;p&gt;Dear all,&lt;/p&gt;
 
 &lt;p&gt;The (main) session of Semillero will take place this Friday, September 1st and will be held at:&lt;/p&gt;
