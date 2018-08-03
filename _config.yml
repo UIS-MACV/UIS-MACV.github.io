@@ -34,8 +34,8 @@ navigation:
       link: /research/
     - title: Publications
       link: /publications.html
-    - title: Code
-      link: /code.html
+    - title: Datasets
+      link: datasets/datasets.html
     - title: Teaching
       link: /teaching.html
     - title: Contact
